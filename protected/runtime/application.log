@@ -1,0 +1,1696 @@
+2019/03/21 18:09:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904296948.jpg".' in /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('1481904296948.j...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/rajib/asianmailbd/index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/rajib/asianmailbd/1481904296948.jpg
+HTTP_REFERER=http://192.168.0.110:8080/rajib/asianmailbd/
+---
+2019/03/21 18:09:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904343581.jpg".' in /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('1481904343581.j...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/rajib/asianmailbd/index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/rajib/asianmailbd/1481904343581.jpg
+HTTP_REFERER=http://192.168.0.110:8080/rajib/asianmailbd/
+---
+2019/03/21 18:09:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904343912.jpg".' in /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('1481904343912.j...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/rajib/asianmailbd/index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/rajib/asianmailbd/1481904343912.jpg
+HTTP_REFERER=http://192.168.0.110:8080/rajib/asianmailbd/
+---
+2019/03/21 18:09:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "148190434395.jpg".' in /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('148190434395.jp...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/rajib/asianmailbd/index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/rajib/asianmailbd/148190434395.jpg
+HTTP_REFERER=http://192.168.0.110:8080/rajib/asianmailbd/
+---
+2019/03/21 18:09:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904343846.jpg".' in /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('1481904343846.j...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/rajib/asianmailbd/index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/rajib/asianmailbd/1481904343846.jpg
+HTTP_REFERER=http://192.168.0.110:8080/rajib/asianmailbd/
+---
+2019/03/21 18:09:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904890258.jpg".' in /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('1481904890258.j...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/rajib/asianmailbd/index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/rajib/asianmailbd/1481904890258.jpg
+HTTP_REFERER=http://192.168.0.110:8080/rajib/asianmailbd/
+---
+2019/03/21 18:09:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904890924.jpg".' in /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('1481904890924.j...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/rajib/asianmailbd/index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/rajib/asianmailbd/1481904890924.jpg
+HTTP_REFERER=http://192.168.0.110:8080/rajib/asianmailbd/
+---
+2019/03/21 18:09:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904890811.jpg".' in /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('1481904890811.j...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/rajib/asianmailbd/index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/rajib/asianmailbd/1481904890811.jpg
+HTTP_REFERER=http://192.168.0.110:8080/rajib/asianmailbd/
+---
+2019/03/21 18:09:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904890697.jpg".' in /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('1481904890697.j...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/rajib/asianmailbd/index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/rajib/asianmailbd/1481904890697.jpg
+HTTP_REFERER=http://192.168.0.110:8080/rajib/asianmailbd/
+---
+2019/03/21 18:09:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904924129.jpg".' in /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('1481904924129.j...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/rajib/asianmailbd/index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/rajib/asianmailbd/1481904924129.jpg
+HTTP_REFERER=http://192.168.0.110:8080/rajib/asianmailbd/
+---
+2019/03/21 18:09:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "148190492455.jpg".' in /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('148190492455.jp...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/rajib/asianmailbd/index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/rajib/asianmailbd/148190492455.jpg
+HTTP_REFERER=http://192.168.0.110:8080/rajib/asianmailbd/
+---
+2019/03/21 18:09:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904963203.jpg".' in /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('1481904963203.j...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/rajib/asianmailbd/index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/rajib/asianmailbd/1481904963203.jpg
+HTTP_REFERER=http://192.168.0.110:8080/rajib/asianmailbd/
+---
+2019/03/21 18:09:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481906981610.jpg".' in /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('1481906981610.j...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/rajib/asianmailbd/index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/rajib/asianmailbd/1481906981610.jpg
+HTTP_REFERER=http://192.168.0.110:8080/rajib/asianmailbd/
+---
+2019/03/21 18:09:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481906981213.jpg".' in /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('1481906981213.j...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/rajib/asianmailbd/index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/rajib/asianmailbd/1481906981213.jpg
+HTTP_REFERER=http://192.168.0.110:8080/rajib/asianmailbd/
+---
+2019/03/21 18:09:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481906981464.jpg".' in /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('1481906981464.j...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/rajib/asianmailbd/index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/rajib/asianmailbd/1481906981464.jpg
+HTTP_REFERER=http://192.168.0.110:8080/rajib/asianmailbd/
+---
+2019/03/21 18:11:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/news/assets/css/sliderwall_horizontallist_skin.css".' in /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/news/ass...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/rajib/asianmailbd/index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/rajib/asianmailbd/themes/news/assets/css/sliderwall_horizontallist_skin.css
+HTTP_REFERER=http://192.168.0.110:8080/rajib/asianmailbd/category/14/%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A7%8D%E0%A6%AF-asianmailbd
+---
+2019/03/21 18:11:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/news/assets/css/slideshow_sample.css".' in /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/news/ass...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/rajib/asianmailbd/index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/rajib/asianmailbd/themes/news/assets/css/slideshow_sample.css
+HTTP_REFERER=http://192.168.0.110:8080/rajib/asianmailbd/category/14/%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A7%8D%E0%A6%AF-asianmailbd
+---
+2019/03/21 18:11:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/news/assets/css/sliderwall_horizontallist_skin.css".' in /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/news/ass...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/rajib/asianmailbd/index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/rajib/asianmailbd/themes/news/assets/css/sliderwall_horizontallist_skin.css
+HTTP_REFERER=http://192.168.0.110:8080/rajib/asianmailbd/category/14/%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A7%8D%E0%A6%AF-asianmailbd
+---
+2019/03/21 18:11:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/news/assets/css/slideshow_sample.css".' in /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/news/ass...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/rajib/asianmailbd/index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/rajib/asianmailbd/themes/news/assets/css/slideshow_sample.css
+HTTP_REFERER=http://192.168.0.110:8080/rajib/asianmailbd/category/14/%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A7%8D%E0%A6%AF-asianmailbd
+---
+2019/03/21 18:11:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/news/assets/css/sliderwall_horizontallist_skin.css".' in /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/news/ass...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/rajib/asianmailbd/index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/rajib/asianmailbd/themes/news/assets/css/sliderwall_horizontallist_skin.css
+HTTP_REFERER=http://192.168.0.110:8080/rajib/asianmailbd/category/3/%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF-asianmailbd
+---
+2019/03/21 18:11:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/news/assets/css/slideshow_sample.css".' in /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/news/ass...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/rajib/asianmailbd/index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/rajib/asianmailbd/themes/news/assets/css/slideshow_sample.css
+HTTP_REFERER=http://192.168.0.110:8080/rajib/asianmailbd/category/3/%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF-asianmailbd
+---
+2019/03/21 18:11:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/news/assets/css/sliderwall_horizontallist_skin.css".' in /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/news/ass...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/rajib/asianmailbd/index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/rajib/asianmailbd/themes/news/assets/css/sliderwall_horizontallist_skin.css
+HTTP_REFERER=http://192.168.0.110:8080/rajib/asianmailbd/category/3/%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF-asianmailbd
+---
+2019/03/21 18:11:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/news/assets/css/slideshow_sample.css".' in /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/news/ass...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/rajib/asianmailbd/index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/rajib/asianmailbd/themes/news/assets/css/slideshow_sample.css
+HTTP_REFERER=http://192.168.0.110:8080/rajib/asianmailbd/category/3/%E0%A6%B0%E0%A6%BE%E0%A6%9C%E0%A6%A8%E0%A7%80%E0%A6%A4%E0%A6%BF-asianmailbd
+---
+2019/03/21 18:11:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/news/assets/css/slideshow_sample.css".' in /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/news/ass...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/rajib/asianmailbd/index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/rajib/asianmailbd/themes/news/assets/css/slideshow_sample.css
+HTTP_REFERER=http://192.168.0.110:8080/rajib/asianmailbd/category/5/economics-guru
+---
+2019/03/21 18:11:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/news/assets/css/sliderwall_horizontallist_skin.css".' in /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/news/ass...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/rajib/asianmailbd/index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/rajib/asianmailbd/themes/news/assets/css/sliderwall_horizontallist_skin.css
+HTTP_REFERER=http://192.168.0.110:8080/rajib/asianmailbd/category/5/economics-guru
+---
+2019/03/21 18:11:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/news/assets/css/sliderwall_horizontallist_skin.css".' in /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/news/ass...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/rajib/asianmailbd/index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/rajib/asianmailbd/themes/news/assets/css/sliderwall_horizontallist_skin.css
+HTTP_REFERER=http://192.168.0.110:8080/rajib/asianmailbd/category/5/economics-guru
+---
+2019/03/21 18:11:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/news/assets/css/slideshow_sample.css".' in /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/news/ass...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/rajib/yii/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /Applications/XAMPP/xamppfiles/htdocs/rajib/asianmailbd/index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/rajib/asianmailbd/themes/news/assets/css/slideshow_sample.css
+HTTP_REFERER=http://192.168.0.110:8080/rajib/asianmailbd/category/5/economics-guru
+---
+2019/06/04 12:55:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/news/assets/css/sliderwall_horizontallist_skin.css".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/news/ass...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/themes/news/assets/css/sliderwall_horizontallist_skin.css
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/06/04 12:55:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/news/assets/css/slideshow_sample.css".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/news/ass...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/themes/news/assets/css/slideshow_sample.css
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/06/04 12:55:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481903871841.JPG".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481903871841.J...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481903871841.JPG
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/06/04 12:55:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904296494.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481904296494.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481904296494.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/06/04 12:55:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904296948.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481904296948.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481904296948.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/06/04 12:55:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904343581.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481904343581.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481904343581.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/06/04 12:55:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904343912.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481904343912.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481904343912.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/06/04 12:55:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "148190434395.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('148190434395.jp...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/148190434395.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/06/04 12:55:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904343846.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481904343846.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481904343846.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/06/04 12:55:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904890258.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481904890258.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481904890258.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/06/04 12:55:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904890924.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481904890924.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481904890924.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/06/04 12:55:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904890811.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481904890811.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481904890811.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/06/04 12:55:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904890697.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481904890697.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481904890697.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/06/04 12:55:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904924129.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481904924129.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481904924129.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/06/04 12:55:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "148190492455.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('148190492455.jp...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/148190492455.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/06/04 12:55:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904963203.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481904963203.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481904963203.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/06/04 12:55:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481906981610.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481906981610.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481906981610.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/06/04 12:55:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481906981464.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481906981464.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481906981464.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/06/04 12:55:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481906981213.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481906981213.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481906981213.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/06/04 12:55:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "148190698165.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('148190698165.jp...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/148190698165.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/06/04 12:55:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481907034462.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481907034462.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481907034462.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/06/04 12:55:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481907034492.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481907034492.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481907034492.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/06/04 12:56:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/news/assets/css/sliderwall_horizontallist_skin.css".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/news/ass...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/themes/news/assets/css/sliderwall_horizontallist_skin.css
+HTTP_REFERER=http://localhost:8080/asianmailbd/article/%E0%A6%86%E0%A6%9C%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%B0%E0%A6%BE%E0%A6%B6%E0%A6%BF%E0%A6%AB%E0%A6%B2%3B-%E0%A6%95%E0%A7%87%E0%A6%AE%E0%A6%A8-%E0%A6%AF%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%9F%E0%A6%BF%3F-21
+---
+2019/06/04 12:56:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/news/assets/css/slideshow_sample.css".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/news/ass...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/themes/news/assets/css/slideshow_sample.css
+HTTP_REFERER=http://localhost:8080/asianmailbd/article/%E0%A6%86%E0%A6%9C%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%B0%E0%A6%BE%E0%A6%B6%E0%A6%BF%E0%A6%AB%E0%A6%B2%3B-%E0%A6%95%E0%A7%87%E0%A6%AE%E0%A6%A8-%E0%A6%AF%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%9F%E0%A6%BF%3F-21
+---
+2019/06/04 12:56:06 [error] [php] Invalid argument supplied for foreach() (E:\aHaD_install\xampp5\htdocs\asianmailbd\themes\news\views\article\view.php:20)
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CController.php(874): ArticleController->renderFile()
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CController.php(782): ArticleController->renderPartial()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\protected\controllers\ArticleController.php(30): ArticleController->render()
+#3 unknown(0): ArticleController->actionView()
+#4 E:\aHaD_install\xampp5\htdocs\yii\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs()
+#5 E:\aHaD_install\xampp5\htdocs\yii\framework\web\actions\CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#6 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#7 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CController.php(286): ArticleController->runAction()
+#8 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CController.php(265): ArticleController->runActionWithFilters()
+#9 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(282): ArticleController->run()
+#10 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#11 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#12 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CWebApplication->run()
+REQUEST_URI=/asianmailbd/article/1507918200898.jpg
+in E:\aHaD_install\xampp5\htdocs\asianmailbd\themes\news\views\article\view.php (20)
+in E:\aHaD_install\xampp5\htdocs\asianmailbd\protected\controllers\ArticleController.php (30)
+in E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php (20)
+2019/06/04 12:56:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/news/assets/css/sliderwall_horizontallist_skin.css".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/news/ass...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/themes/news/assets/css/sliderwall_horizontallist_skin.css
+HTTP_REFERER=http://localhost:8080/asianmailbd/article/%E0%A6%86%E0%A6%9C%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%B0%E0%A6%BE%E0%A6%B6%E0%A6%BF%E0%A6%AB%E0%A6%B2%3B-%E0%A6%95%E0%A7%87%E0%A6%AE%E0%A6%A8-%E0%A6%AF%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%9F%E0%A6%BF%3F-22
+---
+2019/06/04 12:56:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/news/assets/css/slideshow_sample.css".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/news/ass...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/themes/news/assets/css/slideshow_sample.css
+HTTP_REFERER=http://localhost:8080/asianmailbd/article/%E0%A6%86%E0%A6%9C%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%B0%E0%A6%BE%E0%A6%B6%E0%A6%BF%E0%A6%AB%E0%A6%B2%3B-%E0%A6%95%E0%A7%87%E0%A6%AE%E0%A6%A8-%E0%A6%AF%E0%A6%BE%E0%A6%AC%E0%A7%87-%E0%A6%A6%E0%A6%BF%E0%A6%A8%E0%A6%9F%E0%A6%BF%3F-22
+---
+2019/06/04 12:56:42 [error] [php] Invalid argument supplied for foreach() (E:\aHaD_install\xampp5\htdocs\asianmailbd\themes\news\views\article\view.php:20)
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CController.php(874): ArticleController->renderFile()
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CController.php(782): ArticleController->renderPartial()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\protected\controllers\ArticleController.php(30): ArticleController->render()
+#3 unknown(0): ArticleController->actionView()
+#4 E:\aHaD_install\xampp5\htdocs\yii\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs()
+#5 E:\aHaD_install\xampp5\htdocs\yii\framework\web\actions\CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#6 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#7 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CController.php(286): ArticleController->runAction()
+#8 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CController.php(265): ArticleController->runActionWithFilters()
+#9 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(282): ArticleController->run()
+#10 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#11 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#12 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CWebApplication->run()
+REQUEST_URI=/asianmailbd/article/1508004265440.jpg
+in E:\aHaD_install\xampp5\htdocs\asianmailbd\themes\news\views\article\view.php (20)
+in E:\aHaD_install\xampp5\htdocs\asianmailbd\protected\controllers\ArticleController.php (30)
+in E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php (20)
+2019/06/11 23:46:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/news/assets/css/sliderwall_horizontallist_skin.css".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/news/ass...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/themes/news/assets/css/sliderwall_horizontallist_skin.css
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/06/11 23:46:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/news/assets/css/slideshow_sample.css".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/news/ass...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/themes/news/assets/css/slideshow_sample.css
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/06/11 23:46:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481903871841.JPG".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481903871841.J...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481903871841.JPG
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/06/11 23:46:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904296494.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481904296494.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481904296494.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/06/11 23:46:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904296948.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481904296948.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481904296948.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/06/11 23:46:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904343581.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481904343581.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481904343581.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/06/11 23:46:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904343912.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481904343912.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481904343912.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/06/11 23:46:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "148190434395.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('148190434395.jp...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/148190434395.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/06/11 23:46:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904343846.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481904343846.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481904343846.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/06/11 23:46:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904890258.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481904890258.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481904890258.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/06/11 23:46:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904890924.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481904890924.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481904890924.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/06/11 23:46:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904890811.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481904890811.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481904890811.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/06/11 23:46:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904890697.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481904890697.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481904890697.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/06/11 23:46:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904924129.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481904924129.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481904924129.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/06/11 23:46:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904963203.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481904963203.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481904963203.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/06/11 23:46:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "148190492455.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('148190492455.jp...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/148190492455.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/06/11 23:46:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481906981464.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481906981464.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481906981464.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/06/11 23:46:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481906981610.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481906981610.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481906981610.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/06/11 23:46:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481906981213.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481906981213.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481906981213.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/06/11 23:46:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "148190698165.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('148190698165.jp...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/148190698165.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/06/11 23:46:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481907034462.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481907034462.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481907034462.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/06/11 23:46:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481907034492.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481907034492.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481907034492.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/06/11 23:47:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/news/assets/css/sliderwall_horizontallist_skin.css".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/news/ass...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/themes/news/assets/css/sliderwall_horizontallist_skin.css
+HTTP_REFERER=http://localhost:8080/asianmailbd/article/%E0%A6%88%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%B0%E0%A6%97%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A7%8E%E0%A6%B8%E0%A7%8D%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%B6%E0%A7%87-%E0%A6%AC%E0%A7%83%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A7%81
+---
+2019/06/11 23:47:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/news/assets/css/slideshow_sample.css".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/news/ass...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/themes/news/assets/css/slideshow_sample.css
+HTTP_REFERER=http://localhost:8080/asianmailbd/article/%E0%A6%88%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%B0%E0%A6%97%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A7%87-%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A7%8E%E0%A6%B8%E0%A7%8D%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%B6%E0%A7%87-%E0%A6%AC%E0%A7%83%E0%A6%A6%E0%A7%8D%E0%A6%A7%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A7%83%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A7%81
+---
+2019/06/11 23:48:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/news/assets/css/sliderwall_horizontallist_skin.css".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/news/ass...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/themes/news/assets/css/sliderwall_horizontallist_skin.css
+HTTP_REFERER=http://localhost:8080/asianmailbd/category/165/%E0%A6%B8%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6-asianmailbd
+---
+2019/06/11 23:48:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/news/assets/css/slideshow_sample.css".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/news/ass...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/themes/news/assets/css/slideshow_sample.css
+HTTP_REFERER=http://localhost:8080/asianmailbd/category/165/%E0%A6%B8%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6-asianmailbd
+---
+2019/06/11 23:48:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/news/assets/css/sliderwall_horizontallist_skin.css".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/news/ass...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/themes/news/assets/css/sliderwall_horizontallist_skin.css
+HTTP_REFERER=http://localhost:8080/asianmailbd/article/%E0%A6%B0%E0%A6%BE%E0%A6%A3%E0%A7%80%E0%A6%B6%E0%A6%82%E0%A6%95%E0%A7%88%E0%A6%B2%E0%A7%87-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A7%80%E0%A6%B0-%E0%A6%97%E0%A6%B2%E0%A6%BE%E0%A7%9F-%E0%A6%97%E0%A6%BE%E0%A6%AE%E0%A6%9B%E0%A6%BE-%E0%A6%A6%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%86%E0%A6%A4%E0%A7%8D%E0%A6%AE%E0%A6%B9%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%BE
+---
+2019/06/11 23:48:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/news/assets/css/slideshow_sample.css".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/news/ass...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/themes/news/assets/css/slideshow_sample.css
+HTTP_REFERER=http://localhost:8080/asianmailbd/article/%E0%A6%B0%E0%A6%BE%E0%A6%A3%E0%A7%80%E0%A6%B6%E0%A6%82%E0%A6%95%E0%A7%88%E0%A6%B2%E0%A7%87-%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AC%E0%A6%B8%E0%A6%BE%E0%A7%9F%E0%A7%80%E0%A6%B0-%E0%A6%97%E0%A6%B2%E0%A6%BE%E0%A7%9F-%E0%A6%97%E0%A6%BE%E0%A6%AE%E0%A6%9B%E0%A6%BE-%E0%A6%A6%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%86%E0%A6%A4%E0%A7%8D%E0%A6%AE%E0%A6%B9%E0%A6%A4%E0%A7%8D%E0%A6%AF%E0%A6%BE
+---
+2019/06/11 23:48:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/news/assets/css/sliderwall_horizontallist_skin.css".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/news/ass...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/themes/news/assets/css/sliderwall_horizontallist_skin.css
+HTTP_REFERER=http://localhost:8080/asianmailbd/category/13/%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-asianmailbd
+---
+2019/06/11 23:48:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/news/assets/css/slideshow_sample.css".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/news/ass...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/themes/news/assets/css/slideshow_sample.css
+HTTP_REFERER=http://localhost:8080/asianmailbd/category/13/%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE-asianmailbd
+---
+2019/06/11 23:48:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/news/assets/css/sliderwall_horizontallist_skin.css".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/news/ass...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/themes/news/assets/css/sliderwall_horizontallist_skin.css
+HTTP_REFERER=http://localhost:8080/asianmailbd/category/73/%E0%A6%89%E0%A6%A8%E0%A7%8D%E0%A6%A8%E0%A7%9F%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%A5%E0%A7%87
+---
+2019/06/11 23:48:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/news/assets/css/slideshow_sample.css".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/news/ass...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/themes/news/assets/css/slideshow_sample.css
+HTTP_REFERER=http://localhost:8080/asianmailbd/category/73/%E0%A6%89%E0%A6%A8%E0%A7%8D%E0%A6%A8%E0%A7%9F%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%A5%E0%A7%87
+---
+2019/06/11 23:48:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/news/assets/css/sliderwall_horizontallist_skin.css".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/news/ass...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/themes/news/assets/css/sliderwall_horizontallist_skin.css
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/06/11 23:48:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/news/assets/css/slideshow_sample.css".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/news/ass...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/themes/news/assets/css/slideshow_sample.css
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/06/11 23:48:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481903871841.JPG".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481903871841.J...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481903871841.JPG
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/06/11 23:48:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904296494.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481904296494.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481904296494.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/06/11 23:48:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904296948.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481904296948.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481904296948.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/06/11 23:48:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904343581.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481904343581.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481904343581.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/06/11 23:48:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904343912.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481904343912.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481904343912.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/06/11 23:48:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "148190434395.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('148190434395.jp...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/148190434395.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/06/11 23:48:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904343846.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481904343846.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481904343846.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/06/11 23:48:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904890258.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481904890258.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481904890258.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/06/11 23:48:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904890924.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481904890924.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481904890924.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/06/11 23:48:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904890811.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481904890811.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481904890811.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/06/11 23:48:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904890697.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481904890697.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481904890697.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/06/11 23:48:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904924129.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481904924129.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481904924129.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/06/11 23:48:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "148190492455.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('148190492455.jp...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/148190492455.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/06/11 23:48:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904963203.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481904963203.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481904963203.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/06/11 23:48:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481906981610.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481906981610.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481906981610.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/06/11 23:48:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481906981464.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481906981464.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481906981464.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/06/11 23:48:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481906981213.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481906981213.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481906981213.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/06/11 23:48:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "148190698165.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('148190698165.jp...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/148190698165.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/06/11 23:48:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481907034462.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481907034462.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481907034462.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/06/11 23:48:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481907034492.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481907034492.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481907034492.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/06/11 23:49:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/news/assets/css/sliderwall_horizontallist_skin.css".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/news/ass...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/themes/news/assets/css/sliderwall_horizontallist_skin.css
+HTTP_REFERER=http://localhost:8080/asianmailbd/category/all?publish_date=
+---
+2019/06/11 23:49:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/news/assets/css/slideshow_sample.css".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/news/ass...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/themes/news/assets/css/slideshow_sample.css
+HTTP_REFERER=http://localhost:8080/asianmailbd/category/all?publish_date=
+---
+2019/06/11 23:51:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/news/assets/css/sliderwall_horizontallist_skin.css".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/news/ass...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/themes/news/assets/css/sliderwall_horizontallist_skin.css
+HTTP_REFERER=http://localhost:8080/asianmailbd/category/all?publish_date=11-06-2019
+---
+2019/06/11 23:51:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/news/assets/css/slideshow_sample.css".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/news/ass...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/themes/news/assets/css/slideshow_sample.css
+HTTP_REFERER=http://localhost:8080/asianmailbd/category/all?publish_date=11-06-2019
+---
+2019/06/11 23:53:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/news/assets/css/sliderwall_horizontallist_skin.css".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/news/ass...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/themes/news/assets/css/sliderwall_horizontallist_skin.css
+HTTP_REFERER=http://localhost:8080/asianmailbd/category/56/%E0%A6%AB%E0%A7%81%E0%A6%9F%E0%A6%AC%E0%A6%B2-asianmailbd
+---
+2019/06/11 23:53:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/news/assets/css/slideshow_sample.css".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/news/ass...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/themes/news/assets/css/slideshow_sample.css
+HTTP_REFERER=http://localhost:8080/asianmailbd/category/56/%E0%A6%AB%E0%A7%81%E0%A6%9F%E0%A6%AC%E0%A6%B2-asianmailbd
+---
+2019/06/11 23:53:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/news/assets/css/sliderwall_horizontallist_skin.css".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/news/ass...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/themes/news/assets/css/sliderwall_horizontallist_skin.css
+HTTP_REFERER=http://localhost:8080/asianmailbd/category/56/%E0%A6%AB%E0%A7%81%E0%A6%9F%E0%A6%AC%E0%A6%B2-asianmailbd
+---
+2019/09/07 14:58:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/news/assets/css/sliderwall_horizontallist_skin.css".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/news/ass...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/themes/news/assets/css/sliderwall_horizontallist_skin.css
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/09/07 14:58:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/news/assets/css/slideshow_sample.css".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/news/ass...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/themes/news/assets/css/slideshow_sample.css
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/09/07 14:58:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904296948.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481904296948.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481904296948.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/09/07 14:58:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904343581.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481904343581.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481904343581.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/09/07 14:58:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481903871841.JPG".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481903871841.J...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481903871841.JPG
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/09/07 14:58:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "148190434395.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('148190434395.jp...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/148190434395.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/09/07 14:58:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904343912.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481904343912.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481904343912.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/09/07 14:58:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904296494.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481904296494.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481904296494.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/09/07 14:58:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904890258.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481904890258.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481904890258.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/09/07 14:58:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904343846.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481904343846.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481904343846.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/09/07 14:58:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904890924.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481904890924.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481904890924.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/09/07 14:58:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904890811.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481904890811.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481904890811.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/09/07 14:58:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904890697.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481904890697.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481904890697.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/09/07 14:58:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904924129.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481904924129.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481904924129.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/09/07 14:58:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "148190492455.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('148190492455.jp...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/148190492455.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/09/07 14:58:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904963203.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481904963203.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481904963203.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/09/07 14:58:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481906981610.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481906981610.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481906981610.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/09/07 14:58:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481906981464.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481906981464.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481906981464.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/09/07 14:58:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481906981213.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481906981213.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481906981213.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/09/07 14:58:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "148190698165.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('148190698165.jp...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/148190698165.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/09/07 14:58:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481907034462.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481907034462.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481907034462.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/09/07 14:58:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481907034492.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481907034492.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481907034492.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/09/07 15:12:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/news/assets/css/bootstrap.css.map".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/news/ass...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/themes/news/assets/css/bootstrap.css.map
+---
+2019/09/07 15:13:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/d62f8570/jui/js/jquery.ui.datepicker-en.js".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/d62f8570...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/assets/d62f8570/jui/js/jquery.ui.datepicker-en.js
+HTTP_REFERER=http://localhost:8080/asianmailbd/admin/post/index.jsp
+---
+2019/09/07 15:13:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/d62f8570/jui/js/jquery.ui.datepicker-en.js".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/d62f8570...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/assets/d62f8570/jui/js/jquery.ui.datepicker-en.js
+HTTP_REFERER=http://localhost:8080/asianmailbd/admin/post/index.jsp
+---
+2019/09/07 15:15:17 [warning] [application] Failed to set unsafe attribute "image" of "Post".
+in E:\aHaD_install\xampp5\htdocs\asianmailbd\protected\modules\admin\controllers\PostController.php (131)
+in E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php (20)
+2019/09/07 15:15:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/d62f8570/jui/js/jquery.ui.datepicker-en.js".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/d62f8570...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/assets/d62f8570/jui/js/jquery.ui.datepicker-en.js
+HTTP_REFERER=http://localhost:8080/asianmailbd/admin/post/admin.jsp
+---
+2019/09/07 15:16:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/news/assets/css/sliderwall_horizontallist_skin.css".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/news/ass...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/themes/news/assets/css/sliderwall_horizontallist_skin.css
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/09/07 15:16:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/news/assets/css/slideshow_sample.css".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/news/ass...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/themes/news/assets/css/slideshow_sample.css
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/09/07 15:16:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481903871841.JPG".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481903871841.J...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481903871841.JPG
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/09/07 15:16:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904296494.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481904296494.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481904296494.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/09/07 15:16:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904296948.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481904296948.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481904296948.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/09/07 15:16:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904343581.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481904343581.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481904343581.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/09/07 15:16:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904343912.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481904343912.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481904343912.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/09/07 15:16:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "148190434395.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('148190434395.jp...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/148190434395.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/09/07 15:16:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904343846.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481904343846.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481904343846.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/09/07 15:16:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904890258.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481904890258.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481904890258.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/09/07 15:16:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904890924.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481904890924.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481904890924.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/09/07 15:16:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904890811.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481904890811.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481904890811.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/09/07 15:16:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904890697.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481904890697.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481904890697.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/09/07 15:16:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904924129.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481904924129.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481904924129.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/09/07 15:16:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "148190492455.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('148190492455.jp...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/148190492455.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/09/07 15:16:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481906981610.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481906981610.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481906981610.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/09/07 15:16:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904963203.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481904963203.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481904963203.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/09/07 15:16:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481906981464.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481906981464.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481906981464.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/09/07 15:16:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481906981213.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481906981213.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481906981213.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/09/07 15:16:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "148190698165.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('148190698165.jp...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/148190698165.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/09/07 15:16:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481907034462.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481907034462.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481907034462.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2019/09/07 15:16:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481907034492.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481907034492.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481907034492.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2020/01/25 23:54:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/news/assets/css/sliderwall_horizontallist_skin.css".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/news/ass...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/themes/news/assets/css/sliderwall_horizontallist_skin.css
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2020/01/25 23:54:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/news/assets/css/slideshow_sample.css".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/news/ass...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/themes/news/assets/css/slideshow_sample.css
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2020/01/25 23:54:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481903871841.JPG".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481903871841.J...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481903871841.JPG
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2020/01/25 23:54:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904296494.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481904296494.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481904296494.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2020/01/25 23:54:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904296948.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481904296948.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481904296948.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2020/01/25 23:54:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904343581.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481904343581.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481904343581.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2020/01/25 23:54:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904343912.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481904343912.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481904343912.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2020/01/25 23:54:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "148190434395.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('148190434395.jp...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/148190434395.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2020/01/25 23:54:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904343846.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481904343846.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481904343846.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2020/01/25 23:54:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904890258.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481904890258.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481904890258.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2020/01/25 23:54:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904890924.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481904890924.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481904890924.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2020/01/25 23:54:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904890811.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481904890811.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481904890811.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2020/01/25 23:54:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904890697.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481904890697.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481904890697.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2020/01/25 23:54:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904924129.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481904924129.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481904924129.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2020/01/25 23:54:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "148190492455.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('148190492455.jp...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/148190492455.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2020/01/25 23:54:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481904963203.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481904963203.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481904963203.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2020/01/25 23:54:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481906981610.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481906981610.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481906981610.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2020/01/25 23:54:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481906981464.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481906981464.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481906981464.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2020/01/25 23:54:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481906981213.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481906981213.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481906981213.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2020/01/25 23:54:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "148190698165.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('148190698165.jp...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/148190698165.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2020/01/25 23:54:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481907034462.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481907034462.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481907034462.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---
+2020/01/25 23:54:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "1481907034492.jpg".' in E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 E:\aHaD_install\xampp5\htdocs\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('1481907034492.j...')
+#1 E:\aHaD_install\xampp5\htdocs\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 E:\aHaD_install\xampp5\htdocs\asianmailbd\index.php(20): CApplication->run()
+#3 {main}
+REQUEST_URI=/asianmailbd/1481907034492.jpg
+HTTP_REFERER=http://localhost:8080/asianmailbd/
+---

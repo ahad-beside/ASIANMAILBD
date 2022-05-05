@@ -1,0 +1,5 @@
+[30-Mar-2012 13:27:48] PHP Fatal error:  Call to undefined function resolveUrl() in /home/jessore/public_html/master/ckfinder/config.php on line 83
+[30-Mar-2012 13:29:17] PHP Fatal error:  Call to undefined function resolveUrl() in /home/jessore/public_html/master/ckfinder/config.php on line 83
+[30-Mar-2012 14:19:01] PHP Fatal error:  Call to undefined function resolveUrl() in /home/jessore/public_html/master/ckfinder/config.php on line 83
+[30-Mar-2012 14:28:25] PHP Fatal error:  Call to undefined function resolveUrl() in /home/jessore/public_html/master/ckfinder/config.php on line 83
+[30-Mar-2012 14:30:18] PHP Fatal error:  Call to undefined function resolveUrl() in /home/jessore/public_html/master/ckfinder/config.php on line 83

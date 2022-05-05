@@ -1,0 +1,3 @@
+[15-Oct-2016 09:06:44 America/New_York] PHP Fatal error:  Class 'Settings' not found in /home/asianmailbd/public_html/themes/mobile/views/layouts/footer.php on line 3
+[15-Oct-2016 09:06:45 America/New_York] PHP Fatal error:  Class 'Menu' not found in /home/asianmailbd/public_html/themes/mobile/views/layouts/navigation.php on line 7
+[15-Oct-2016 09:06:49 America/New_York] PHP Fatal error:  Class 'Yii' not found in /home/asianmailbd/public_html/themes/mobile/views/layouts/headerTab.php on line 4

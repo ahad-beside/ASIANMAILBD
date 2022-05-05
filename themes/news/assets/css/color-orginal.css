@@ -1,0 +1,21 @@
+/*
+
+.sf-menu > li > a:active, .sf-menu > li.current > a, .sf-menu > li.current > span, .sf-menu > li.active > a, .sf-menu > li.active > span> .fg{
+  color:red;
+}
+.sf-menu > li > a:hover, .sf-menu > li.sfHover > a, .sf-menu > li.sfHover > span, .sf-menu > li:hover >span> .fg{
+ color:red;
+}
+ul.sf-menu > li.sfHover.parent > a,
+ul.sf-menu > li.sfHover.parent > span,
+ul.sf-menu > li.parent > a:hover,
+ul.sf-menu > li.parent > span:hover {
+border-top:3px solid #FB5757;
+}*/
+
+
+ul.sf-menu > li.parent > a:hover  .fa{
+  color:#8E44AD;}
+ .sf-menu > li > a:hover, .sf-menu > li.sfHover > a, .sf-menu > li.sfHover > span, .sf-menu > li:hover >span> .fg{
+ color:#8E44AD;
+}
